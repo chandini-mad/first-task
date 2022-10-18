@@ -1,0 +1,16 @@
+<title></title>
+		.navbar{
+			background-color: deeppink;
+			color: white;
+			width: 100%;
+			padding: 1%;
+			text-align: center; 
+		}
+		.navbar a{
+			text-decoration:none;
+			color: white;
+			margin-right: 10%;
+			font-size: 25px;
+		}
+
+
